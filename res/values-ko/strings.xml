@@ -26,4 +26,5 @@
     <string name="setting_add_widget">위젯 추가</string>
 
     <string name="not_torch_title">전등 켜짐</string>
+    <string name="not_torch_toggle">전등 끄기</string>
 </resources>
